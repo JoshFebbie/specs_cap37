@@ -3,7 +3,8 @@
 }
 
 #root {
-    background-color: rgb(29, 29, 29);
+    /* background-color:#134e4a; */
+    background-color:#1c5c58;
 }
 
 .header {
@@ -39,5 +40,16 @@
     object-fit: cover;
     border-bottom: 3px solid white;
     
+    
+}
+
+.logo {
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    position: absolute;
+    top: 12%;
+    margin-bottom: 20px;
+    border-radius: 8px;
     
 }
