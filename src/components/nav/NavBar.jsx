@@ -4,10 +4,10 @@ export default function NavBar() {
   return (
     <div className="nav">
       <div className="topLeft">
-        <i className="navIcon fa-brands fa-square-facebook"></i>
+        {/* <i className="navIcon fa-brands fa-square-facebook"></i>
         <i className="navIcon fa-brands fa-square-twitter"></i>
-        <i className="navIcon fa-brands fa-square-instagram"></i>
-        <i className="navIcon fa-brands fa-square-pinterest"></i>
+        <i className="navIcon fa-brands fa-square-instagram"></i> */}
+        <img src="assets/brand-4.png" className="logo2"alt="" />
       </div>
       <div className="topCenter">
         <ul className="navList">

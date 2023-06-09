@@ -7,16 +7,18 @@
     display: flex;
     align-items: center;
     font-weight: bolder;
-    background-color: #cccccc;
+    background-color: #000000;
     z-index: 999;
+    font-family: "Poppins";
 }
 
 .navListItem {
     margin-right: 20px;
-    font-size: 20px;
+    font-size: 24px;
     font-weight: bold;
     cursor: pointer;
-    color:rgb(0, 0, 0);
+    /* color:rgb(55, 162, 116); */
+    color:rgb(85, 176, 126);
 }
 
 .navList {
@@ -50,12 +52,19 @@
     height: 50px;
     border-radius: 50%;
     object-fit: cover;
-    border: 2px solid white;
+    border: 2px solid rgb(19, 193, 126);
 }
 
 .searchIcon {
     font-size: 20px;
     cursor: pointer;
-    color: rgb(0, 0, 0);
+    color: rgb(37, 200, 127);
     margin-left: 20px;
+}
+.logo2 {
+    width: 280px;
+    height: 70px;
+    object-fit: cover;
+    
+    margin-right: 10px;
 }

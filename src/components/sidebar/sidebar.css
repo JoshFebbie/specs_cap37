@@ -57,13 +57,14 @@
 }
 
 .sidebarIcon {
-    font-size: 34px !important;
+    font-size: 30px !important;
     margin-left: 10px;
     cursor: pointer;
     padding: 0;
+    color:rgb(55, 162, 116);
 }
 
 .sb-image {
-    width: 350px;
+    width: 275px;
     height: 250px;
 }
